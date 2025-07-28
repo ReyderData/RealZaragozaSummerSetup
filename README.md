@@ -19,3 +19,5 @@ I include in this project, the plot that I created earlier this year, and upload
 For the following graphs I used data from FBRef, collected and processed with pandas and then with matplotlib to create the plots.
 
 I will include the .ipynb file where I create them.
+
+You can download the zip with both powwerpoint file and all images in a folder to see the project.
